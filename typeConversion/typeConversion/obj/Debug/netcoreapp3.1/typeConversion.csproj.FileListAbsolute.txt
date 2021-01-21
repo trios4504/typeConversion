@@ -1,0 +1,12 @@
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/bin/Debug/netcoreapp3.1/typeConversion.deps.json
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/bin/Debug/netcoreapp3.1/typeConversion.runtimeconfig.json
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/bin/Debug/netcoreapp3.1/typeConversion.runtimeconfig.dev.json
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/bin/Debug/netcoreapp3.1/typeConversion.dll
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/bin/Debug/netcoreapp3.1/typeConversion.pdb
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.csprojAssemblyReference.cache
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.AssemblyInfoInputs.cache
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.AssemblyInfo.cs
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.csproj.CoreCompileInputs.cache
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.dll
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.pdb
+/Users/thomas/Desktop/C#/typeConversion/typeConversion/obj/Debug/netcoreapp3.1/typeConversion.genruntimeconfig.cache
